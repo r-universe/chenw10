@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesDIP"]
+	path = BayesDIP
+	url = https://github.com/chenw10/bayesdip
+	shallow = true
+	registered = true
